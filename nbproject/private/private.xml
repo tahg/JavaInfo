@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/D:/Nathan/Minecraft/JavaInfo/src/javainfo/JavaInfo.java</file>
+        <file>file:/D:/Nathan/Minecraft/JavaInfo/src/disasm/Disassembler.java</file>
+        <file>file:/D:/Nathan/Minecraft/JavaInfo/src/disasm/Instruction.java</file>
+        <file>file:/D:/Nathan/Minecraft/JavaInfo/src/classinfo/ClassFile.java</file>
+        <file>file:/D:/Nathan/Minecraft/JavaInfo/src/classinfo/MethodInfo.java</file>
+        <file>file:/D:/Nathan/Minecraft/JavaInfo/src/classinfo/ACode.java</file>
+        <file>file:/D:/Nathan/Minecraft/JavaInfo/src/classinfo/AttributeInfo.java</file>
+        <file>file:/D:/Nathan/Minecraft/JavaInfo/src/disasm/TableSwitch.java</file>
+    </open-files>
+</project-private>
